@@ -46,7 +46,7 @@
 <body>
 
 <header>
-    <h1>🚀 Welcome to KK FUNDA DEVOPS SRE NEW BATCHPortal 🚀</h1>
+    <h1>🚀 Welcome to KK FUNDA DEVOPS SRE NEW BATCHPortal for new batch 🚀</h1>
     <h3>Training | Development | Consulting</h3>
 </header>
 
